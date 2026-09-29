@@ -51,7 +51,7 @@ I'm a Computer Applications (BCA) graduate from Tribhuvan University, Nepal, wit
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rajkrishnasilwal.com.np-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://www.rajkrishnasilwal.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Krishna%20Silwal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raz-silwal-74812a198)
-[![Email](https://img.shields.io/badge/Email-sabalsilwal57@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sabalsilwal57@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sabalsilwal57@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sabalsilwal51@gmail.com)
 
 ---
 
